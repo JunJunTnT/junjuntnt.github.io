@@ -27,8 +27,7 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
-      {{ title }}
-      {% endif %}
+      {{ post.title }}
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
