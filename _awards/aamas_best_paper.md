@@ -1,8 +1,7 @@
 ---
-title: "Best Paper Award"
-date: 2025-11-01
-issuer: "ACM SIGXYZ"
-location: "San Francisco, CA"
-link: "https://example.com/award-page"
-excerpt: "Awarded for the paper on ... "
+title: "AAMAS 25 Best Student Paper Runner-Up (Top 1.2%)"
+date: 2025-05-19
+issuer: "IFAAMAS"
+location: "Detroit, Michigan, USA"
+link: "https://aamas2025.org/index.php/conference/awards/best-paper-and-demo-awards/"
 ---
