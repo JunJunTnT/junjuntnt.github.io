@@ -4,12 +4,7 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ post.title }}</a>
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">Permalink</a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
-      {% endif %}
+      {{ post.title }}
     </h2>
 
     <p class="page__meta">
@@ -23,11 +18,6 @@
       {% endif %}
     </p>
 
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify }}
-      </p>
-    {% endif %}
 
   </article>
 </div>
