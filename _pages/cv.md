@@ -24,6 +24,6 @@ Publications
 Awards
 ======
   <ul>{% for post in site.awards reversed %}
-    {% include archive-single-award.html %}
+    {% include archive-single-cv-award.html %}
   {% endfor %}</ul>
   
