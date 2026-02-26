@@ -1,5 +1,5 @@
 ---
-title: "AAMAS 25 Best Student Paper Runner-Up (Top 1.2%)"
+title: "Best Student Paper Runner-Up, AAMAS 2025"
 date: 2025-05-19
 issuer: "IFAAMAS"
 location: "Detroit, Michigan, USA"
