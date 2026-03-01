@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/ReSCOM-TMC
 excerpt: 'This work extends our AAMAS 2025 publication by providing an in-depth investigation of the impact of network latency on multi-agent collaborative communication. We further validate the approach across diverse network environments, including Wi-Fi and 5G.'
 date: 2025-09-12
-venue: 'IEEE Transacations on Mobile Computing'
+venue: 'IEEE Transactions on Mobile Computing'
 paperurl: 'https://ieeexplore.ieee.org/document/11162568'
 ---
 
